@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>MSFTPlayground</h1>
+    <p class="lead">Test application regarding Identity Server V3</p>
+    <p><a href="http://identityserver.io" target="_blank" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>The About Page</h2>
+        <p>Page for which authentication is required. It will redirect to the Identity Server.</p>
+        <p>@Html.ActionLink("About", "About", "Home")</p>
+    </div>
+@if (User.Identity.IsAuthenticated) {
+    <div class="col-md-4">
+        <h2>Logout</h2>
+        <p>Link to logout of the system. The identity server will redirect back to the homepage.</p>
+        <p>@Html.ActionLink("Logout", "Logout", "Home")</p>
+    </div>
+}
+</div>

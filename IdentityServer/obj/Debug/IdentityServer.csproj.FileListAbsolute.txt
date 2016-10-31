@@ -1,0 +1,171 @@
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\ApplicationInsights.config
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\csc.exe
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\vbc.exe
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\IdentityServer.dll.config
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\IdentityServer.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\IdentityServer.pdb
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Antlr3.Runtime.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\IdentityServer3.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.Web.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Newtonsoft.Json.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Owin.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.Helpers.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.Mvc.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.Optimization.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.Razor.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.WebPages.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\WebGrease.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\IdentityServer3.pdb
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\IdentityServer3.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.Web.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.Helpers.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.Mvc.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.Optimization.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.Razor.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.WebPages.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Antlr3.Runtime.pdb
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Newtonsoft.Json.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\obj\Debug\IdentityServer.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\obj\Debug\IdentityServer.pdb
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Certificate\idsrv3test.pfx
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\IdentityModel.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Serilog.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Serilog.Sinks.File.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Serilog.Sinks.Trace.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Diagnostics.Tracer.dll
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Serilog.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Serilog.Sinks.File.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Serilog.Sinks.Trace.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Diagnostics.Tracer.pdb
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\System.Diagnostics.Tracer.xml
+C:\Users\maik.vandergaag\Source\Repos\Identity Server\IdentityServer\IdentityServer\bin\Certificate\identitycert.pfx
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\csc.exe
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\vbc.exe
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\IdentityServer.dll.config
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\IdentityServer.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\IdentityServer.pdb
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Antlr3.Runtime.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\IdentityModel.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\IdentityServer3.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.Web.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Newtonsoft.Json.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Owin.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Serilog.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Serilog.Sinks.File.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Serilog.Sinks.Trace.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Diagnostics.Tracer.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.Helpers.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.Mvc.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.Optimization.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.Razor.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.WebPages.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\WebGrease.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\IdentityServer3.pdb
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\IdentityServer3.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.Web.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Newtonsoft.Json.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Serilog.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Serilog.Sinks.File.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Serilog.Sinks.Trace.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Diagnostics.Tracer.pdb
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Diagnostics.Tracer.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.Helpers.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.Mvc.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.Optimization.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.Razor.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.WebPages.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\bin\Antlr3.Runtime.pdb
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\obj\Debug\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\obj\Debug\IdentityServer.dll
+C:\Users\maik.vandergaag\Source\Repos\IdentityServer\IdentityServer\obj\Debug\IdentityServer.pdb
