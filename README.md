@@ -9,6 +9,10 @@ With the following method you can retrieve a certificate that you can use for si
 
 ```csharp
 public X509Certificate2 GetCertificate(string thumbprint) {
+
+    if (string.IsNullOrEmpty(thumbprint))
+        throw new ArgumentNullException("thumbprint", "Argument 'thumbprint' cannot be 'null' or 'string.empty'");
+
     X509Certificate2 retVal = null;
 
     X509Store certStore = new X509Store(StoreName.My, StoreLocation.CurrentUser);
@@ -30,3 +34,4 @@ More information about this repository can be read on this blog site:
 
 
 Before using the application also make sure you update the Client because the test uses in memory clients.
+
